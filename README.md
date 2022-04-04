@@ -36,7 +36,7 @@ We thank the following people who contributed to this project:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./myprofile.jpg" width="140px;" alt="Foto do colaborador"/><br>
+        <img src="./img/myprofile.jpg" width="140px;" alt="Foto do colaborador"/><br>
         <sub>
           <b>Victor Kauê</b>
         </sub>
