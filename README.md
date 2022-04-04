@@ -1,5 +1,7 @@
 # Playsation Store
 
+> see the project : https://vtkaue.github.io/Playstation-store/
+
 <img src="./img/playstationstore.gif" width="800px" height="400px" alt="Gif do Teste">
 
 >  The site consists of a PlayStation store, which is featuring a PS5 DualShock controller purchase page.
